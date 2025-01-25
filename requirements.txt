@@ -4,3 +4,9 @@ matplotlib
 seaborn
 scikit-learn
 statsmodels
+
+python-chess
+stockfish
+google-cloud-bigquery
+pandas-gbq
+pyarrow
